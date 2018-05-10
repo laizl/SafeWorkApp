@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Graduate\\SafeWork\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-xlarge-v4\\values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\赖志林\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\629c02e5e4af2f41f127769e6764ccc8\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                },
+                {
+                    "source": "E:\\Graduate\\SafeWork\\easeui\\build\\intermediates\\bundles\\debug\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,53",
+                        "endOffsets": "103,157"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "473,526",
+                        "endColumns": "52,53",
+                        "endOffsets": "521,575"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Graduate\\SafeWork\\easeui\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\赖志林\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\629c02e5e4af2f41f127769e6764ccc8\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                },
+                {
+                    "source": "E:\\Graduate\\SafeWork\\easeui\\build\\intermediates\\bundles\\debug\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,53",
+                        "endOffsets": "103,157"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "473,526",
+                        "endColumns": "52,53",
+                        "endOffsets": "521,575"
+                    }
+                }
+            ]
+        }
+    ]
+}

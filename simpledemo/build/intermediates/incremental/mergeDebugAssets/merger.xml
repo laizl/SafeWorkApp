@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":easeui"><source path="E:\Graduate\SafeWork\easeui\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="E:\Graduate\SafeWork\simpledemo\src\main\assets"/><source path="E:\Graduate\SafeWork\simpledemo\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\Graduate\SafeWork\simpledemo\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\Graduate\\SafeWork\\simpledemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\赖志林\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\629c02e5e4af2f41f127769e6764ccc8\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Graduate\\SafeWork\\simpledemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\赖志林\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\629c02e5e4af2f41f127769e6764ccc8\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\Graduate\\SafeWork\\simpledemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\赖志林\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\c4183f95a5f215645106bb098f68a8bb\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "E:\\Graduate\\SafeWork\\simpledemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\赖志林\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\629c02e5e4af2f41f127769e6764ccc8\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Graduate\\SafeWork\\simpledemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\赖志林\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\c4183f95a5f215645106bb098f68a8bb\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Graduate\\SafeWork\\simpledemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\赖志林\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\629c02e5e4af2f41f127769e6764ccc8\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Graduate\\SafeWork\\simpledemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\赖志林\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\629c02e5e4af2f41f127769e6764ccc8\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\Graduate\\SafeWork\\simpledemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\赖志林\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\629c02e5e4af2f41f127769e6764ccc8\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Graduate\\SafeWork\\simpledemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\赖志林\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\629c02e5e4af2f41f127769e6764ccc8\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Graduate\\SafeWork\\simpledemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\赖志林\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\c4183f95a5f215645106bb098f68a8bb\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Graduate\\SafeWork\\simpledemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\赖志林\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\629c02e5e4af2f41f127769e6764ccc8\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\Graduate\\SafeWork\\simpledemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\赖志林\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\629c02e5e4af2f41f127769e6764ccc8\\res\\color\\abc_secondary_text_material_light.xml"
+    }
+]

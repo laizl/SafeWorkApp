@@ -1,0 +1,4 @@
+#Mon Apr 30 22:19:56 CST 2018
+base.0=E\:\\Graduate\\SafeWork\\simpledemo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=E\:\\Graduate\\SafeWork\\simpledemo\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

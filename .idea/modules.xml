@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SafeWork.iml" filepath="$PROJECT_DIR$/SafeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easeui/easeui.iml" filepath="$PROJECT_DIR$/easeui/easeui.iml" />
+      <module fileurl="file://E:\SafeWork\easeui\easeui.iml" filepath="E:\SafeWork\easeui\easeui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpledemo/simpledemo.iml" filepath="$PROJECT_DIR$/simpledemo/simpledemo.iml" />
+    </modules>
+  </component>
+</project>
